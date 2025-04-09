@@ -1,8 +1,8 @@
-# 📚 Estruturas de Dados com Java
+# Estruturas de Dados com Java
 
 **Resolução de Problemas - 4º semestre - PUCPR**
 
-Este repositório contém atividades práticas sobre estruturas de dados utilizando Java, desenvolvidas durante o curso de Engenharia de Software.
+Atividades práticas sobre estruturas de dados utilizando Java, desenvolvidas durante o curso de Engenharia de Software.
 
 ---
 
@@ -28,9 +28,9 @@ Implementação básica de **Pilha** e **Fila** utilizando vetores.
 
 ---
 
-## ⚙️ Como compilar e executar a Atv Prática Supervisionada
+##  Como compilar e executar a Atv Prática Supervisionada
 
-```bash
+
 # Clone o repositório
 https://github.com/GiuliaVerse/ResolucaoDeProblemas.git
 
@@ -44,6 +44,7 @@ javac *.java
 java NomeDoArquivoPrincipal
 
 Dentro do Programa temos o  Menu de Operações
+```
 ===== MENU =====
 1 - Operações com Pilha
 2 - Operações com Fila
@@ -52,7 +53,7 @@ Dentro do Programa temos o  Menu de Operações
 0 - Sair
 
 ----------------------------------------------
-
+```
 
 Exemplos de Validação
 1. Pilha
