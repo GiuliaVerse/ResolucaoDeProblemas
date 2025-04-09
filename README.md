@@ -1,27 +1,47 @@
-Estruturas de Dados com Java
+# 📚 Estruturas de Dados com Java
 
-Resolução de Problemas 4º semestre - PUCPR
+**Resolução de Problemas - 4º semestre - PUCPR**
 
-Atividades:
+Este repositório contém atividades práticas sobre estruturas de dados utilizando Java, desenvolvidas durante o curso de Engenharia de Software.
 
-ATV Pilha e Fila - Implenta uma pilha e fila com vetores
+---
 
-Atividade Prática Supervisionada - Foram implementadas estruturas de Pilha Dinâmica, Fila Dinâmica, e Merge de Filas Ordenadas com dois enfoques: usando listas encadeadas e vetores circulares.
+## Atividades
 
+### ATV Pilha e Fila
+Implementação básica de **Pilha** e **Fila** utilizando vetores.
 
+### Atividade Prática Supervisionada
+- **Pilha Dinâmica**
+- **Fila Dinâmica**
+- **Merge de Filas Ordenadas**
+  - Usando listas encadeadas
+  - Usando vetores circulares
 
-Requisitos para rodar
-Java 8 ou superior
-Compilador e terminal 
+---
 
-🛠️ Como compilar e executar
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+## ✅ Requisitos
 
-2-Compile os arquivos Java:
+- Java 8 ou superior
+- Compilador Java (ex: `javac`)
+- Terminal ou console de comandos
+
+---
+
+## ⚙️ Como compilar e executar a Atv Prática Supervisionada
+
+```bash
+# Clone o repositório
+https://github.com/GiuliaVerse/ResolucaoDeProblemas.git
+
+# Acesse a pasta do projeto
+cd ResolucaoDeProblemas
+
+# Compile os arquivos Java
 javac *.java
 
-3-Execute o programa
+# Execute o programa
+java NomeDoArquivoPrincipal
 
 Dentro do Programa temos o  Menu de Operações
 ===== MENU =====
@@ -30,6 +50,7 @@ Dentro do Programa temos o  Menu de Operações
 3 - Merge em Fila com Lista
 4 - Merge em Fila com Vetor
 0 - Sair
+
 ----------------------------------------------
 
 
