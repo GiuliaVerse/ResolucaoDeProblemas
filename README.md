@@ -20,7 +20,7 @@ Implementação básica de **Pilha** e **Fila** utilizando vetores.
 
 ---
 
-## ✅ Requisitos
+## Requisitos
 
 - Java 8 ou superior
 - Compilador Java (ex: `javac`)
@@ -28,7 +28,7 @@ Implementação básica de **Pilha** e **Fila** utilizando vetores.
 
 ---
 
-##  Como compilar e executar a Atv Prática Supervisionada
+##  Como executar a Atv Prática Supervisionada
 
 
 # Clone o repositório
@@ -36,9 +36,6 @@ https://github.com/GiuliaVerse/ResolucaoDeProblemas.git
 
 # Acesse a pasta do projeto
 cd ResolucaoDeProblemas
-
-# Compile os arquivos Java
-javac *.java
 
 # Execute o programa
 java NomeDoArquivoPrincipal
@@ -52,7 +49,6 @@ Dentro do Programa temos o  Menu de Operações
 4 - Merge em Fila com Vetor
 0 - Sair
 
-----------------------------------------------
 ```
 
 Exemplos de Validação
