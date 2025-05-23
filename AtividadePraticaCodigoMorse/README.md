@@ -14,7 +14,7 @@ O projeto foi desenvolvido em dupla como parte de uma atividade prática e possu
 [🔗 Assista no YouTube](https://www.youtube.com/...)  
 *https://www.youtube.com/watch?v=veUe4bw6CJ8*
 
-## 🛠 Especificações da Implementação
+##  Especificações da Implementação
 
 - ** Estrutura da Árvore:**  
   A árvore binária possui uma raiz no topo e ramos à esquerda e à direita que representam, respectivamente, ponto (`.`) e traço (`-`).
